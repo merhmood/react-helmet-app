@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  width: fit-content;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-top: 2em;
+}
+
+.index {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 3em;
+}
+
+.index div {
+  margin: 1em 1em;
+}
+
+.index div img {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+  width: 100%;
+}
+
+.index div h4 {
+  margin: 0.5em 0;
+}
+
+.index div p {
+  cursor: pointer;
+  color: #2e45c7;
+  font-size: 0.8rem;
+}
+
+.recipe div {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.recipe div h2 {
+  font-weight: 1.1rem;
+  margin: 1em 0;
+  text-align: center;
+}
+
+.recipe div img {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+  width: 100%;
+}
+
+.recipe div ul {
+  margin: 3em 0;
+}
+
+.recipe div ul li {
+  margin-top: 1em;
+  font-family: cursive;
+}
+/*# sourceMappingURL=App.css.map */

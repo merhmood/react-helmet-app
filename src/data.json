@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.unsplash.com/photo-1568051243851-f9b136146e97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+    "name": "Waffle",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 teaspoon salt, 4 teaspoons baking powder",
+      "2 tablespoons white sugar",
+      "2 eggs, 1 ½ cups warm milk",
+      "⅓ cup butter, melted, 1 teaspoon vanilla extract"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1603&q=80",
+    "name": "Chesseburger",
+    "ingredients": [
+      "2 pounds freshly ground chuck, (at least 80% lean, a.k.a. 80/20)",
+      "1 tablespoon onion powder",
+      "1 teaspoon salt",
+      "1 teaspoon freshly ground black pepper",
+      "12 slices deli-counter American cheese",
+      "6 large burger buns, preferably homemade, toasted if desired"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1608039755401-742074f0548d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+    "name": "Buffalo wings",
+    "ingredients": [
+      "2 lb. chicken wings",
+      "2 tbsp. Vegetable oil, 1 tsp. garlic powder",
+      "Kosher salt, Freshly ground black pepper",
+      "1/4 c. hot sauce (such as Frank's)",
+      "2 tbsp. honey",
+      "4 tbsp. butter",
+      "Ranch dressing, for serving",
+      "Carrot sticks, for serving",
+      "Celery sticks, for serving"
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://images.unsplash.com/photo-1602173982448-7519b74187f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "name": "Cornbread",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 cup yellow cornmeal",
+      "⅔ cup white sugar",
+      "1 teaspoon salt",
+      "3 ½ teaspoons baking powder",
+      "1 egg",
+      "1 cup milk",
+      "⅓ cup vegetable oil"
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1603103750903-518e8bf57bf0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "name": "Lobster rolls",
+    "ingredients": [
+      "1 tablespoon butter",
+      "softened, 4 roll (blank)s hot dog buns or kaiser rolls",
+      "split, 4 large leaf (blank)s lettuce leaves",
+      "1 ½ pounds cooked and cubed lobster meat",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon fresh lime juice",
+      "1 dash hot pepper sauce (e.g. Tabasco™)",
+      "2 medium (4-1/8' long)s green onions",
+      "chopped, 1 stalk celery, finely chopped",
+      "1 pinch salt and pepper to taste",
+      "1 pinch dried basil, parsley or tarragon"
+    ]
+  }
+]
